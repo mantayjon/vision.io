@@ -1,0 +1,1 @@
+#define CLIENT_ID "Arduino_NFC"
